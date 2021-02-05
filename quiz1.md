@@ -1,10 +1,10 @@
-Hi Professor, I was feeling a little rusty on this quiz so it may not be my best work. 
+**Needs revisions**
 
 Section 1: Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
 1. Filiam
 - Feminine accusative singular
-2. in coniugium
+2. in coniugium ❌
 - Neuter accusative singular
 - Neuter nominative singular 
 - Into marriage 
@@ -12,7 +12,7 @@ Section 1: Identify the gender, case and number, and gender of each noun. If the
 - Masculine dative singular 
 - Ablative dative singular 
 4. Uirgine
-- Feminive dative singular
+- Feminive dative singular ❌
 5. Parentes
 - Masculine nominative plural
 - Masculine accusative plural
@@ -22,30 +22,27 @@ Section 1: Identify the gender, case and number, and gender of each noun. If the
 
 
 Section 2: For each of the following verbs,
-(a) identify the tense, voice, mood, person, and number. (b) if the form is singular, convert to plural; if the form is plural, convert to singular (c) translate the new form.
+(a) identify the tense, voice, mood, person, and number. (b) if the form is singular, convert to plural; if the form is plural, convert to singular and (c) translate indicative forms
 
 1. Petivisset
 - pluperfect active subjunctive singular 3rd
 - Petivissent
-- They might have attacked
 2. Necavit
 - Third singular perfect active indicative 
 - Necaverunt
 - They killed
 3. Necari
 - Present passive infinitive 
-4. Rogaretur
+4. Rogaretur  ❌
 - Subjunctive imperfect passive third plural
 - Rogarentur 
-- He might ask 
-5. Coepit
+5. Coepit ❌
 - Third singular perfect active indicative
 - Coepiunt
 - They began
 6. Interfecisset
 - Third singular pluperfect subjunctive active
 - Interfecissent
-- They might have killed
 7. Misit
 - Third singular perfect indicative active
 - Miserunt
@@ -55,10 +52,10 @@ Section 2: For each of the following verbs,
 Section 3: 
 Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
 
-1. Centaurs interficiuntur by Hercules. (Use the present tense)
-2. Centaurs interfectus by Hercules. (Use the perfect tense) (perfect passive participle)
-3. Centaurs interfecti sunt by Hercules. (Use the perfect tense)
-4. When Hercules interficere the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.)
-5. At the moment when Deianira vidit Hercules’ garment burst into flames, she realized the Centaur had lied to her.
-6. Hercules duxit Deianira in marriage (i.e., he married her).
-7. Hercules repeatedly rogabat Eurytus for permission to marry Iole.
+1. Centaurs interficiuntur by Hercules. (Use the present tense) ❌
+2. Centaurs interfectus by Hercules. (Use the perfect tense) (perfect passive participle) ❌
+3. Centaurs interfecti sunt by Hercules. (Use the perfect tense) ❌
+4. When Hercules interficere the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) ❌
+5. At the moment when Deianira vidit Hercules’ garment burst into flames, she realized the Centaur had lied to her. ❌
+6. Hercules duxit Deianira in marriage (i.e., he married her). ❌
+7. Hercules repeatedly rogabat Eurytus for permission to marry Iole. ❌

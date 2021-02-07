@@ -4,15 +4,14 @@ Section 1: Identify the gender, case and number, and gender of each noun. If the
 
 1. Filiam
 - Feminine accusative singular
-2. in coniugium ❌
+2. in coniugium 
 - Neuter accusative singular
-- Neuter nominative singular 
 - Into marriage 
 3. Animo
 - Masculine dative singular 
 - Ablative dative singular 
 4. Uirgine
-- Feminive dative singular ❌
+- Feminive ablative singular 
 5. Parentes
 - Masculine nominative plural
 - Masculine accusative plural
@@ -33,11 +32,12 @@ Section 2: For each of the following verbs,
 - They killed
 3. Necari
 - Present passive infinitive 
-4. Rogaretur  ❌
-- Subjunctive imperfect passive third plural
+4. Rogaretur  
+- Subjunctive imperfect passive third singular
 - Rogarentur 
-5. Coepit ❌
-- Third singular perfect active indicative
+- they were asked
+5. Coepit 
+- Third singular present active indicative
 - Coepiunt
 - They began
 6. Interfecisset
@@ -52,10 +52,10 @@ Section 2: For each of the following verbs,
 Section 3: 
 Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
 
-1. Centaurs interficiuntur by Hercules. (Use the present tense) ❌
-2. Centaurs interfectus by Hercules. (Use the perfect tense) (perfect passive participle) ❌
-3. Centaurs interfecti sunt by Hercules. (Use the perfect tense) ❌
+1. Centaurs interficiantur by Hercules. (Use the present tense) (3 plural passive present subj)
+2. Centaurs interficerentur by Hercules. (Use the imperfect tense) (3 plural passive imperfect subj)
+3. Centaurs interfecti sint by Hercules. (Use the perfect tense) (3 plural passive perfect subj)
 4. When Hercules interficere the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) ❌
-5. At the moment when Deianira vidit Hercules’ garment burst into flames, she realized the Centaur had lied to her. ❌
-6. Hercules duxit Deianira in marriage (i.e., he married her). ❌
-7. Hercules repeatedly rogabat Eurytus for permission to marry Iole. ❌
+5. At the moment when Deianira vidit Hercules’ garment burst into flames, she realized the Centaur had lied to her. ❌ (3rd singular perfect active indicative)
+6. Hercules duxit Deianira in marriage (i.e., he married her). ❌ 
+7. Hercules repeatedly rogaret Eurytus for permission to marry Iole. (3rd sing active subjunctive imperfect)

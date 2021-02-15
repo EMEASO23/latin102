@@ -38,7 +38,7 @@ Grammatical questions
 4. Identify the form uenisset, and explain why it is this tense and mood.
 - Subjunctive pluperfect, it is this tense because it is a secondary sequence temporal clause that happened earlier than the main clause
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
-- Pollicitus est = third singular perfect passive indicative --> you would look under the fourth principle part to find this verb
+- Pollicitus est = third singular perfect passive indicative --> you would look under the fourth principle part to find this verb "pollicitus sum"
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
 - 2-1-2 adjective agreement, tempore certo is in the ablative case because it is used to express the point of time at which something happened
 

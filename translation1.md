@@ -2,9 +2,11 @@
 
 Passage Analysis
 
-❌ > Hercules cum in hospitium ad Dexamenum regem *uenisset* eiusque filiam Deianiram *deuirginasset*, 
+❌ > Hercules cum in hospitium ad Dexamenum regem *uenisset* 
 
- *volebat* eam uxorem *ducere*.
+eiusque filiam Deianiram *deuirginasset*, 
+
+> *volebat* eam uxorem *ducere*.
  
 >Cum Hercules *abesset*, 
 
@@ -16,9 +18,11 @@ centaurus Eurytion *petit* Deianiram uxorem.
 
 > se *daturum*.
 
-❌ > Tempore certo,
+❌ Tempore certo, *venit* centaurus
 
-*venit* centaurus cum fratribus ad nuptias. 
+> cum fratribus 
+
+> ad nuptias. 
 
 Hercules *intervenit* et centaurum *interfecit*, 
 

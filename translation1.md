@@ -20,7 +20,9 @@ centaurus Eurytion *petit* Deianiram uxorem.
 
 ❌ Tempore certo, *venit* centaurus cum fratribus ad nuptias. 
 
-Hercules *intervenit* et centaurum *interfecit*, 
+Hercules *intervenit* 
+
+> et centaurum *interfecit*, 
 
 ❌ > Deianiram *abduxit*.
 
@@ -29,10 +31,10 @@ Grammatical questions
 
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
 - Dexamenus, Dexameni, m. 
-- accusative singular 
+- masculine accusative singular 
 2. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
 - Deinaira, Deinairae, f. 
-- accusative singular 
+- feminine accusative singular 
 3. Identify the form abesset, and explain why it is this tense and mood.
 - Imperfect subjunctive, it is this tense and mood bc it is a secondary sequence temporal clause that happened contemporary w/after the action in the main clause
 4. Identify the form uenisset, and explain why it is this tense and mood.

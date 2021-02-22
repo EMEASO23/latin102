@@ -54,6 +54,6 @@ Translate (only) the italicized verb forms into Latin. E.g., if you were given �
 2. Centaurs interficiebantur by Hercules. (Use the imperfect tense) (3 plural passive imperfect indicative)
 3. Centaurs interfecti sunt by Hercules. (Use the perfect tense) (3 plural passive perfect indicative)
 4. When Hercules interfecisset the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) (subjunctive pluperfect b/c action is before the main clause)
-5. At the moment when Deianira vidit Hercules’ garment burst into flames, she realized the Centaur had lied to her. ❌ (3rd singular perfect active indicative) (emphasizes timing of events not circumstances)(
-6. Hercules duxit Deianira in marriage (i.e., he married her). ❌ 
-7. Hercules repeatedly rogaret Eurytus for permission to marry Iole. ❌  (3rd sing active subjunctive imperfect)
+5. At the moment when Deianira videat Hercules’ garment burst into flames, she realized the Centaur had lied to her. ❌ (3rd singular present active subjunctive?) (emphasizes circumstances of when she understood, contemporary with)
+6. Hercules duxit Deianira in marriage (i.e., he married her). ❌  (is this supposed to be imperfect? ducebat?)
+7. Hercules repeatedly rogebat Eurytus for permission to marry Iole. ❌  (3rd sing active indicative imperfect)

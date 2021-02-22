@@ -24,7 +24,7 @@ Hercules *intervenit*
 
 > et centaurum *interfecit*, 
 
-❌ > Deianiram *abduxit*.
+❌ Deianiram *abduxit*.
 
 
 Grammatical questions

@@ -1,12 +1,14 @@
-**Needs revisions**
+**Full credit**
 
 Passage Analysis
 
-❌ > Hercules cum in hospitium ad Dexamenum regem *uenisset* 
+Hercules 
 
-eiusque filiam Deianiram *deuirginasset*, 
+> cum in hospitium ad Dexamenum regem *uenisset* 
 
-> *volebat* eam uxorem *ducere*.
+>eiusque filiam Deianiram *deuirginasset*, 
+
+*volebat* eam uxorem *ducere*.
  
 >Cum Hercules *abesset*, 
 
@@ -18,13 +20,13 @@ centaurus Eurytion *petit* Deianiram uxorem.
 
 > se *daturum*.
 
-❌ Tempore certo, *venit* centaurus cum fratribus ad nuptias. 
+Tempore certo, *venit* centaurus cum fratribus ad nuptias. 
 
 Hercules *intervenit* 
 
-> et centaurum *interfecit*, 
+et centaurum *interfecit*, 
 
-❌ Deianiram *abduxit*.
+Deianiram *abduxit*.
 
 
 Grammatical questions
@@ -47,8 +49,8 @@ Grammatical questions
 
 Translation
 
-When Hercules came into the hospitality of King Dexamena, Hercules took the virginity of his daughter Dianara and wanted to marry her. 
-When Hercules went away, The Centaur, Eurytion, asked for Dianara as his wife. 
+When Hercules came into the hospitality of King Dexamenus, he took the virginity of his daughter Dianara, he wanted to marry her. 
+When Hercules went away, the Centaur, Eurytion, asked for Dianara as his wife. 
 Because her father feared the centaur, he promised that he would give Dianara in marriage. 
 On the fixed day, the centaur came with his brothers to the marriage. 
 Hercules intervened and killed the centaur, he abducted Dianara.

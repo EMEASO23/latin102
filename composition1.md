@@ -1,9 +1,12 @@
-Cum Hercules ad Oechaliam veniisset, is rogavit nubere Iolen. 
+**Needs revisions**
+**Excellent first draft!  Minor revisions only.**
 
-Hercules Oechaliam cepit, quia Eurytus, patris Lole, noluit. 
+Cum Hercules ad Oechaliam venisset, is rogavit nubere❌ Iolen. **Use one of the idioms we learned in class with *duco*.**
 
-Hercules dixit eam interfecturus esse parentes Iole. 
+Hercules Oechaliam cepit, quia🤔 Eurytus, patris❌ Iole, noluit🤔. 
+
+Hercules dixit eam❌ interfecturus❌  esse parentes Iole. 
 
 Iole patiebatur Herculem interficere eius parentes. 
 
-Cum Hercules omnem illos interfecisset, is Iolen ad Deianiram misit.
+Cum Hercules omnem❌  illos interfecisset, is Iolen ad Deianiram misit.

@@ -62,17 +62,17 @@ Verb Synopsis
 
 English Relative Clauses 
 
-1. The brothers, qui came to the wedding with Euryton, were violent Centaurs.
+1. The brothers, cum quibus came to the wedding with Euryton, were violent Centaurs.
 
 - Antecedent= brothers; masculine plural
 
-- Qui is nominative plural because they are the subject of the relative clause
+- Quibus is ablative masculine plural because they are the object of the preposition in the relative clause
 
-2. Dexamenus was afraid of Eurytion, qui promised Deinara in marriage. 
+2. Dexamenus was afraid of Eurytion, cui promised Deinara in marriage. 
 
 - Antecedent = Eurytion; masculine singular
 
-- Qui is nominative singular because it is the subject of the relative clause
+- Cui is dative singular because it is the indirect object of the relative clause
 
 3. Eurytion, cuius brothers were centaurs, expected to marry Deianira. 
 
@@ -86,11 +86,11 @@ English Relative Clauses
 
 - Quem is accusative singular because it is acting as the direct object of the clause Hercules killed 
 
-5. Nessus gave Deianira a vial of blood, quod poisoned Hercules. 
+5. Nessus gave Deianira a vial of blood, quibus poisoned Hercules. 
 
 - Antecedent = vial, neuter sing 
 
-- Quod em is nominative singular because it is the subject of the relative clause
+- Quibus is ablative singular because it is acting as the agent of what killed Hercules
 
 6. In Egypt, Hercules killed the priest Busiris, qui regularly sacrificed foreigners.
 

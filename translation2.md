@@ -81,6 +81,7 @@ Gramatical Questions
 
 
 Translation:
+
 Deianara, wife of Hercules, could not cross the large river, whose name was Evenus,
 and asked the centaur Nessus, who was the son of Ixion and Nubes, for help. 
 When Deianira was being taken through the river, Nessus himself wanted to rape her.

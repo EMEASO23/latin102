@@ -1,12 +1,10 @@
-**Needs revisions**
-**Excellent first draft!  Minor revisions only.**
 
-Cum Hercules ad Oechaliam venisset, is **rogavit nubere** ducit in coniguium❌ Iolen. **Use one of the idioms we learned in class with *duco*.**
+Cum Hercules Oechaliam venisset, is petivit ducere in coniguium Iolen. 
 
-Hercules Oechaliam cepit, **Quia** Cum 🤔 Eurytus, patris❌ Iole, **noluit** noluerit 🤔. 
+Hercules Oechaliam cepit, Cum  Eurytus, pater eius, nolebat. 
 
-Hercules dixit eam❌ interfecturus❌  esse parentes Iole. 
+Hercules dixit se interfecturum esse parentes eius. 
 
-Iole patiebatur Herculem interficere eius parentes. 
+Iole patiebatur Herculem interficere suos parentes. 
 
-Cum Hercules omnem❌  illos interfecisset, is Iolen ad Deianiram misit.
+Cum Hercules omnes  illos interfecisset, is Iolen ad Deianiram misit.

@@ -1,3 +1,4 @@
+**Full credit**
 
 Cum Hercules Oechaliam venisset, is petivit ducere in coniguium Iolen. 
 

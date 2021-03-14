@@ -4,9 +4,12 @@ Deianira,
 >  uxor Herculis, 
 > flumen magnum,
 >> cui nomen Evenus **erat**,
+
 non **poterat transire**, 
+
 et centaurum Nessum,
 > qui filius Ixionis et Nubis **erat**, 
+
 auxilium **rogavit**.
 
 
@@ -14,13 +17,16 @@ Hic
 > Deianiram **sublatam**
 > in flumine
 > ipso **violare** 
+
 **voluit**.
 
 
 > Huc
+
 Hercules 
 > cum **intervenisset**
->>   et Deianira cum fidem eius **implorasset,**
+>> et Deianira cum fidem eius **implorasset,**
+
 Nessum sagittis **confixit.**
 
 
@@ -30,10 +36,13 @@ ille
 >> sagittas Hydrae Lernaeae
 >>> felle tinctas
 >> magnam vim **habere**, 
+
 sanguinem suum
 > exceptum
- Deianirae **dedit** et 
+
+Deianirae **dedit** et 
 > id philtrum **esse** 
+
 **dixit**.
 
 

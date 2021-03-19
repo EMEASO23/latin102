@@ -23,11 +23,10 @@ Hic
 **voluit**.
 
 
-> Huc
-
-Hercules 
+Huc Hercules 
 > cum **intervenisset**
->> et Deianira cum fidem eius **implorasset,**
+> et
+> Deianira cum fidem eius **implorasset,**
 
 Nessum sagittis **confixit.**
 
@@ -62,7 +61,7 @@ Gramatical Questions
 3. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in the Lewis-Short’s Latin Dictionary, and give its URN here.
 
  - Masculine accusative singular passive indicative
- - comes from Tollo, Tollere, Sustuli, Sublatus
+ - comes from suffero
  - urn:cite2:hmt:ls.markdown:n48489
 
 4. Identify the form of sagittis. Why does Hyginus use this case?

@@ -40,13 +40,14 @@ Nessum sagittis **confixit.**
 
 
 ille 
+
 > **moriens**, 
 
 > cum **sciret**
 
->> sagittas Hydrae Lernaeae
-
->>> felle tinctas
+>> sagittas 
+ 
+>>> Hydrae Lernaeae felle tinctas
 
 >> magnam vim **habere**, 
 
@@ -54,7 +55,9 @@ sanguinem suum
 
 > exceptum
 
-Deianirae **dedit** et 
+Deianirae **dedit** 
+
+et 
 
 > id philtrum **esse** 
 

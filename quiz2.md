@@ -1,3 +1,6 @@
+**Needs revisions**
+**Very nice first submission!**
+
 Verb Synopsis
 
 *Appello, Appellare, Appellui, Appelltus*
@@ -12,11 +15,11 @@ Verb Synopsis
 
 - third plural imperfect subjunctive active - Appellarent
 
-- third plural perfect indicative active - Appelluerunt (they addressed)
+- third plural perfect indicative active - Appelluerunt❌ (they addressed)
 
-- perfect active infinitive - Appelluisse
+- perfect active infinitive - Appelluisse❌
 
-- third plural pluperfect subjunctive active - Appelluissent
+- third plural pluperfect subjunctive active - Appelluissent❌
 
 *Accipio, Accipere, Accepi, Acceptus*
 
@@ -50,7 +53,7 @@ Verb Synopsis
 
 - third plural perfect indicative passive - polliciti sunt (they promised)
 
-- perfect active passive - pollicerisse
+- perfect active passive - pollicerisse❌
 
 - third plural pluperfect subjunctive passive - polliciti essent
 
@@ -60,7 +63,7 @@ Verb Synopsis
 
 
 
-English Relative Clauses 
+English Relative Clauses ❌ **Please express sentences first in English -- and phrases like "cum quibus" aren't English! 🙂"
 
 1. The brothers, cum quibus came to the wedding with Euryton, were violent Centaurs.
 
@@ -90,7 +93,7 @@ English Relative Clauses
 
 - Antecedent = vial, neuter sing 
 
-- Quibus is ablative singular because it is acting as the agent of what killed Hercules
+- Quibus❌ is ablative singular because it is acting as the agent of what killed Hercules 
 
 6. In Egypt, Hercules killed the priest Busiris, qui regularly sacrificed foreigners.
 
@@ -114,9 +117,9 @@ English Relative Clauses
 
 - Antecedent = Hercules, masc sing
 
-- Quem is dative singular because it is referring to whom Apollo refused to give an oracle (Acting as the indirect object)
+- Quem❌ is dative singular because it is referring to whom Apollo refused to give an oracle (Acting as the indirect object)
 
-10. Hercules, qui was driven into a fit of madness by Juno, killed his own wife Megara. 
+10. Hercules, qui was driven into a fit of madness by Juno, killed his own wife Megara. ❌
 
 - Antecedent = hercules, masc sing
 

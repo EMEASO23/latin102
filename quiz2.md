@@ -1,5 +1,4 @@
-**Needs revisions**
-**Very nice first submission!**
+
 
 Verb Synopsis
 
@@ -15,11 +14,11 @@ Verb Synopsis
 
 - third plural imperfect subjunctive active - Appellarent
 
-- third plural perfect indicative active - Appelluerunt❌ (they addressed)
+- third plural perfect indicative active - Appellaverunt  (they addressed)
 
-- perfect active infinitive - Appelluisse❌
+- perfect active infinitive - Appellavisse 
 
-- third plural pluperfect subjunctive active - Appelluissent❌
+- third plural pluperfect subjunctive active - Appellavissent 
 
 *Accipio, Accipere, Accepi, Acceptus*
 
@@ -53,7 +52,7 @@ Verb Synopsis
 
 - third plural perfect indicative passive - polliciti sunt (they promised)
 
-- perfect active passive - pollicerisse❌
+- perfect active passive - pollicitum esse
 
 - third plural pluperfect subjunctive passive - polliciti essent
 
@@ -63,64 +62,75 @@ Verb Synopsis
 
 
 
-English Relative Clauses ❌ **Please express sentences first in English -- and phrases like "cum quibus" aren't English! 🙂"
+English Relative Clauses 
 
-1. The brothers, cum quibus came to the wedding with Euryton, were violent Centaurs.
+1. The brothers, **whom** came to the wedding with Euryton, were violent Centaurs.
+
+- "cum quibus"
 
 - Antecedent= brothers; masculine plural
 
 - Quibus is ablative masculine plural because they are the object of the preposition in the relative clause
 
-2. Dexamenus was afraid of Eurytion, cui promised Deinara in marriage. 
+2. Dexamenus was afraid of Eurytion, **who** promised Deinara in marriage. 
 
+- cui
 - Antecedent = Eurytion; masculine singular
 
 - Cui is dative singular because it is the indirect object of the relative clause
 
-3. Eurytion, cuius brothers were centaurs, expected to marry Deianira. 
+3. Eurytion, **whose** brothers were centaurs, expected to marry Deianira. 
 
+- cuius
 - antecedent= eurytion; masc sing 
 
 - Cuius is genitive because in the relative clause it is talking about the brothers of Eurytion so the relative pronoun should be genitive
 
-4. Nessus, quem Hercules killed, tried to rape Deianira.
+4. Nessus, **whom** Hercules killed, tried to rape Deianira.
 
+- quem
 - Antecedent = nessus; masc sing 
 
 - Quem is accusative singular because it is acting as the direct object of the clause Hercules killed 
 
-5. Nessus gave Deianira a vial of blood, quibus poisoned Hercules. 
+5. Nessus gave Deianira a vial of blood, **which** poisoned Hercules. 
 
+- quo
 - Antecedent = vial, neuter sing 
 
-- Quibus❌ is ablative singular because it is acting as the agent of what killed Hercules 
+- quo is ablative singular because it is acting as the agent of what killed Hercules 
 
-6. In Egypt, Hercules killed the priest Busiris, qui regularly sacrificed foreigners.
+6. In Egypt, Hercules killed the priest Busiris, **who** regularly sacrificed foreigners.
 
+- qui
 - antecedent = Busiris, masc sing 
 
 - Qui is nominative singular because it is the subject of the relative clause 
 
-7. Prometheus’ heart was devoured by an eagle, quam Hercules shot dead with his arrows. 
+7. Prometheus’ heart was devoured by an eagle, **quam** Hercules shot dead with his arrows. 
 
+- quam
 - Antecedent = eagle; feminine sing
 
 - Quam is accusative singular because it is acting as the direct object of the clause “Hercules shot dead” 
 
-8. Lycus, quem Hercules killed, tried to kill Megara and her sons Therimachus and Ophites.
+8. Lycus, **whom** Hercules killed, tried to kill Megara and her sons Therimachus and Ophites.
 
+- quem
 - Antecedent= Lycus, masc sing
 
 - Quem is accusative singular because it is acting as the object of the clause Hercules killed
 
-9. Hercules, cui Apollo refused an oracle, stole a tripod from the temple at Delphi. 
+9. Hercules, **who** Apollo refused an oracle, stole a tripod from the temple at Delphi. 
 
+- cui
 - Antecedent = Hercules, masc sing
 
-- Quem❌ is dative singular because it is referring to whom Apollo refused to give an oracle (Acting as the indirect object)
+- cui is dative singular because it is referring to whom Apollo refused to give an oracle (Acting as the indirect object)
 
-10. Hercules, qui was driven into a fit of madness by Juno, killed his own wife Megara. ❌
+10. Hercules, **who** Juno drove into a fit of madness, killed his own wife Megara. 
 
+- cui
 - Antecedent = hercules, masc sing
 
-- Qui is nominative singular because it is acting as the subject of the relative clause 
+- cui  is dative singular because it is acting as the indirect object of the relative clause 

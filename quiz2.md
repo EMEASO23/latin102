@@ -64,7 +64,7 @@ Verb Synopsis
 
 English Relative Clauses 
 
-1. The brothers, **whom** came to the wedding with Euryton, were violent Centaurs.
+1. The brothers, with **whom** Euryton came to the wedding, were violent Centaurs.
 
 - "cum quibus"
 
@@ -72,7 +72,7 @@ English Relative Clauses
 
 - Quibus is ablative masculine plural because they are the object of the preposition in the relative clause
 
-2. Dexamenus was afraid of Eurytion, **who** promised Deinara in marriage. 
+2. Dexamenus was afraid of Eurytion, **who** Deanira was to promised in marriage. 
 
 - cui
 - Antecedent = Eurytion; masculine singular
@@ -93,7 +93,7 @@ English Relative Clauses
 
 - Quem is accusative singular because it is acting as the direct object of the clause Hercules killed 
 
-5. Nessus gave Deianira a vial of blood, **which** poisoned Hercules. 
+5. Nessus gave Deianira a vial of blood, by **which** Hercules was poisoned. 
 
 - quo
 - Antecedent = vial, neuter sing 
@@ -107,21 +107,21 @@ English Relative Clauses
 
 - Qui is nominative singular because it is the subject of the relative clause 
 
-7. Prometheus’ heart was devoured by an eagle, **quam** Hercules shot dead with his arrows. 
+7. Prometheus’ heart was devoured by an eagle, **who** Hercules shot dead with his arrows. 
 
 - quam
 - Antecedent = eagle; feminine sing
 
 - Quam is accusative singular because it is acting as the direct object of the clause “Hercules shot dead” 
 
-8. Lycus, **whom** Hercules killed, tried to kill Megara and her sons Therimachus and Ophites.
+8. Lycus, **who** was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
 
-- quem
+- qui
 - Antecedent= Lycus, masc sing
 
-- Quem is accusative singular because it is acting as the object of the clause Hercules killed
+- qui is nominative singular because it is acting as the subject of the clause Hercules killed
 
-9. Hercules, **who** Apollo refused an oracle, stole a tripod from the temple at Delphi. 
+9. Hercules, to **whom** Apollo refused to give an oracle, stole a tripod from the temple at Delphi. 
 
 - cui
 - Antecedent = Hercules, masc sing
@@ -130,7 +130,7 @@ English Relative Clauses
 
 10. Hercules, **who** Juno drove into a fit of madness, killed his own wife Megara. 
 
-- cui
+- quem
 - Antecedent = hercules, masc sing
 
-- cui  is dative singular because it is acting as the indirect object of the relative clause 
+- quem  is accusative singular because it is acting as the indirect object of the relative clause 

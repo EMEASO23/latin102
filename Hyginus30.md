@@ -14,20 +14,26 @@ dracones duos duabus manibus necavit,
 
 Subject: Hercules necavit 
 
+Translartion: 
+
+When Hercules was a child, he killed two serpants, which were sent by Juno, 
+
+with his two hands. As a result, he is given the title, the first born. 
 
 **Section 2:
 **
 
 Leonem Nemeum,
 
-> quem Luna nutrierat 
-
->> in antro amphistomo atrotum, 
+> quem Luna nutrierat in antro amphistomo atrotum, 
 
 necavit, 
 
 > cuius pellem pro tegumento habuit.
 
+Translation: 
+
+Herclules killed the Nemian Lion, whom the moon had nourished in the cave of two mouths. 
 
 **Section 3: 
 **
@@ -60,9 +66,12 @@ unde postea et ipse periit in Phrygia.
 
 Vocabulary: 
 
+- amphistomus, amphistoma, amphistomum: "two mouths"
+- antrum, antri (n): "cave"
 - duabus irregular form of duo, duae, ,duo, (fem.abl.pl): "two"
 - infans, infantis (m or f): infant
 - novem (indeclinable): "nine" 
+- nutrio, nutris, nutrire, nutritum : "nourished"
 - primigenius, primigenia, primigenium (adj): "firstborn"
 - quisquis: "whoever" "each and everyone" --> shows up as "quicquid"
 - unde: "from where"

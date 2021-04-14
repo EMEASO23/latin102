@@ -1,10 +1,12 @@
+**Needs minor revisions**
+
 Gramatical Analysis
 
 Deianira,
 
->  uxor Herculis, 
-
-> flumen magnum,
+>  uxor Herculis,  ❌
+ 
+> flumen magnum, ❌
 
 >> cui nomen Evenus **erat**,
 
@@ -19,11 +21,11 @@ auxilium **rogavit**.
 
 Hic
 
-> Deianiram **sublatam**
+> Deianiram **sublatam** ❌
 
-> in flumine
+> in flumine ❌
 
-> ipso **violare** 
+> ipso **violare**  ❌
 
 **voluit**.
 
@@ -69,7 +71,7 @@ Gramatical Questions
 
  - Antecedent = flumen
  - Neuter, Singular 
- - Cui is dative because it is acting as the indirect object of the relative clause “whose”
+ - Cui is dative because it is acting as the indirect object❌ of the relative clause “whose”
 
 2. Identify the form of transire. Explain why you placed it in the clause you chose.
 

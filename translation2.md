@@ -2,13 +2,9 @@
 
 Gramatical Analysis
 
-Deianira,
+Deianira,uxor Herculis, flumen magnum,
 
->  uxor Herculis,  ❌
- 
-> flumen magnum, ❌
-
->> cui nomen Evenus **erat**,
+> cui nomen Evenus **erat**,
 
 non **poterat transire**, 
 
@@ -21,11 +17,7 @@ auxilium **rogavit**.
 
 Hic
 
-> Deianiram **sublatam** ❌
-
-> in flumine ❌
-
-> ipso **violare**  ❌
+> Deianiram **sublatam** in flumine ipso **violare** 
 
 **voluit**.
 

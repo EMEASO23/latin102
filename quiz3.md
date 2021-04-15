@@ -84,11 +84,11 @@ Section 1
 
 7. Iaculabantur
 
-- Iaculor, iaculare, -, iaculaturus 
+- Iaculor, iaculari, -, iaculatus sum
 
 8. Vescebantur
 
-- Comes from vasecor
+- vasecor, vaseci, -, -
 
 9. Detraxit
 

@@ -63,8 +63,7 @@ Gramatical Questions
 
  - Antecedent = flumen
  - Neuter, Singular 
- - Cui is dative because it is acting as the indirect object❌ of the relative clause “whose”
-
+ - Cui is dative because it is acting as the indirect object❌ of the relative clause “whose” **(is cui working as the dative interrogative adjective?)**
 2. Identify the form of transire. Explain why you placed it in the clause you chose.
 
  - Transire is the present infinitive → I placed it in part of the main clause because it is attached to poterant which is an indicative verb

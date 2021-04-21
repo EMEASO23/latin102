@@ -38,17 +38,21 @@ Herclules killed the Nemian Lion, whom the moon had nourished in the cave of two
 **Section 3: 
 **
 
-Hydram Lernaeam Typhonis filiam 
-
-> cum capitibus nouem ad fontem Lernaeum 
+Hydram Lernaeam Typhonis filiam cum capitibus nouem ad fontem Lernaeum 
 
 interfecit.
 
-> haec tantam uim ueneni habuit ut afflatu homines necaret, 
+haec tantam uim ueneni habuit
 
-et si quis eam dormientem transierat, 
+> ut afflatu homines necaret, 
 
-> uestigia eius afflabat 
+et 
+
+> si quis eam
+
+>> dormientem transierat, 
+
+uestigia eius afflabat 
 
 et maiori cruciatu moriebatur. 
 

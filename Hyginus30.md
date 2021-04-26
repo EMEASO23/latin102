@@ -68,10 +68,22 @@ suas tinxit;
 
 unde postea et ipse periit in Phrygia.
 
+**Section 4**
+
+aprum Erymanthium occidit.
+
+**Section 5**
+
+cervum ferocem in Arcadia cum cornibus aureis vivum 
+
+in conspectu Eurysthei regis adduxit.
+
 Vocabulary: 
 
 - amphistomus, amphistoma, amphistomum: "two mouths"
 - antrum, antri (n): "cave"
+- conspectus, conspectus (m): "presence/sight"
+- cornu, cornus (n): "antler"
 - duabus irregular form of duo, duae, ,duo, (fem.abl.pl): "two"
 - infans, infantis (m or f): infant
 - novem (indeclinable): "nine" 

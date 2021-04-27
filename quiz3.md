@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Section 1
 
 1. Uno die
@@ -88,7 +90,7 @@ Section 1
 
 8. Vescebantur
 
-- vasecor, vaseci, -, -
+- vasecor, vaseci, -, - ❌
 
 9. Detraxit
 
@@ -100,7 +102,7 @@ Section 1
 
 11. Attulit
 
-- Attulo, attulere, -, - 
+- Attulo, attulere, -, - **Possible!  But in Hyginus, we'll see it (based on context in part) as a compound of *ad* + *fero*.**
 
 **Section 3**
 
@@ -149,7 +151,7 @@ Section 1
 
 4. aves Stymphalides 
 
-- Stymphalidis, Stymphalide
+- Stymphalidis, Stymphalide **Possible!**
 
 5. Hippolyten Amazonam 
 
@@ -159,7 +161,7 @@ Section 1
 
 1. The Hydra killed passers by with a great blowing of his poisonous breath.
 
-- Magnum afflatum
+- Magnum afflatum❌ **Adjective agreement is good, but what case would expres *with/by means of* a great blowing of breath?**
 
 2. The Hydra killed passers by with a greater blowing of his poisonous breath.
 
@@ -171,19 +173,19 @@ Section 1
 
 4. The victims died in great torment.
 
-- Magnum cruciatus
+- Magnum cruciatus❌
 
 5. The victims died in greater torment.
 
-- Maiorem cruciatus
+- Maiorem cruciatus❌
 
 6. The victims died in the greatest torment.
 
-- Maximum cruciatus
+- Maximum cruciatus❌
 
 7. Hercules cleaned a great part of the stables.
 
-- Magnum partem
+- Magnum partem❌ **check the gender.**
 
 8. Hercules cleaned a greater part of the stables.
 
@@ -191,4 +193,4 @@ Section 1
 
 9. Hercules cleaned the greatest part of the stables. 
 
-Maximum partem
+Maximum partem❌

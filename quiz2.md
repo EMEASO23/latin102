@@ -1,4 +1,4 @@
-**Ful credit**
+**Full credit**
 
 Verb Synopsis
 

@@ -90,7 +90,7 @@ Section 1
 
 8. Vescebantur
 
-- vasecor, vaseci, -, - ❌
+- vescor, vesceris, vesci, -
 
 9. Detraxit
 
@@ -161,7 +161,7 @@ Section 1
 
 1. The Hydra killed passers by with a great blowing of his poisonous breath.
 
-- Magnum afflatum❌ **Adjective agreement is good, but what case would expres *with/by means of* a great blowing of breath?**
+- Magno afflate 
 
 2. The Hydra killed passers by with a greater blowing of his poisonous breath.
 
@@ -173,19 +173,19 @@ Section 1
 
 4. The victims died in great torment.
 
-- Magnum cruciatus❌
+- Magno cruciato
 
 5. The victims died in greater torment.
 
-- Maiorem cruciatus❌
+- Maiore cruciato
 
 6. The victims died in the greatest torment.
 
-- Maximum cruciatus❌
+- Maximo cruciato
 
 7. Hercules cleaned a great part of the stables.
 
-- Magnum partem❌ **check the gender.**
+- Magnam partem
 
 8. Hercules cleaned a greater part of the stables.
 
@@ -193,4 +193,4 @@ Section 1
 
 9. Hercules cleaned the greatest part of the stables. 
 
-Maximum partem❌
+Maximam partem

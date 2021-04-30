@@ -48,3 +48,6 @@ It is interesting that Hyginus starts off the sentences of this passage with the
 of Hercules and his power over his subjects. It is very interesting that Hyginus decided to use the ablative absolute for *Iove 
 auditore* instead of just a participle. This helps to make the sentence concise while placing a unique emphasis on the role of 
 Jupitor in the sentence.
+
+D. Translation
+Hercules cleaned, in one day, the ox dung from the stable of King Augeas, with help from Jupitor. By letting in a river he washed away all the dung. Hercules brought back the  bull with which Pasiphae lay alive from the island of Crete to Mycenae. Hercules killed Diomedes, King of Thrace, and his four horses which fed on human flesh with the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus.
